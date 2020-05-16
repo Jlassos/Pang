@@ -14,3 +14,5 @@ C++ using [SFML](https://www.sfml-dev.org/) library.
 - libgcc_s_seh-1.dll
 - bstdc++-6.dll
 - bwinpthread-1.dll
+
+### Code by James Lasso & Logan Rostron
