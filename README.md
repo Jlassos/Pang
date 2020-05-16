@@ -12,7 +12,7 @@ C++ using [SFML](https://www.sfml-dev.org/) library.
 - sfml-window-2.dll
 
 - libgcc_s_seh-1.dll
-- bstdc++-6.dll
-- bwinpthread-1.dll
+- libstdc++-6.dll
+- libwinpthread-1.dll
 
 ### Code by James Lasso & Logan Rostron
